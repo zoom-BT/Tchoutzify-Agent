@@ -43,3 +43,6 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
+
+# Plans de conception (locaux uniquement)
+docs/superpowers/plans/
